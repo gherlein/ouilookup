@@ -3,8 +3,11 @@ OUI_URL    = http://standards-oui.ieee.org/oui.txt
 OUI_DB_DIR = /usr/local/var/oui
 BINARY     = ./ouilookup
 
-${BINARY}: 
+${BINARY}: dependencies
 	go build -ldflags "-X main.oui_db=${OUI_DB_DIR}/${OUI_DB}" -o ${BINARY}
+
+dependencies:
+	go get ./...
 
 
 install: ${OUI_DB} 

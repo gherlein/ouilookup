@@ -39,3 +39,7 @@ Uses the excellent [OUI Library](https://github.com/klauspost/oui) by [Klaus Pos
 ## References
 
 [Organizationally Unique Identifier - Wikipedia](https://en.wikipedia.org/wiki/Organizationally_unique_identifier)
+
+# License
+
+This project is released under the MIT License.  Please see details [here] (https://gherlein.mit-license.org).
