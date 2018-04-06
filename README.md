@@ -19,6 +19,8 @@ Nothing special - just a fast way to see what kind of device is associated with 
 To compile and build:
 
 ```
+go get github.com/gherlein/ouilookup
+cd $GOPATH/src/github.com/gherlein/ouilookup
 make
 sudo make install
 ```
