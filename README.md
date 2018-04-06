@@ -36,4 +36,4 @@ Uses the excellent [OUI Library](https://github.com/klauspost/oui) by [Klaus Pos
 
 ## References
 
-["Organizationally Unique Identifier" - Wikipedia](https://en.wikipedia.org/wiki/Organizationally_unique_identifier)
+[Organizationally Unique Identifier - Wikipedia](https://en.wikipedia.org/wiki/Organizationally_unique_identifier)
